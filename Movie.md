@@ -1,0 +1,2 @@
+Prompt:
+“Create a movie poster for an adventure film titled ‘Whiskers in the Wild.’ The poster should feature a brave cat wearing a small backpack, standing on a cliff overlooking a vast jungle. The background should include exotic plants and a distant waterfall, with a tagline that reads ‘An Epic Journey Awaits.’
